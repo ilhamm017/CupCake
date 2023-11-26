@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CupCake</string>
+    <string name="vanilla">Vanila</string>
+    <string name="chocolate">Cokelat</string>
+    <string name="one_cupcake">Satu cup</string>
+    <string name="subtotal_price">Subtotal %s</string>
+</resources>
